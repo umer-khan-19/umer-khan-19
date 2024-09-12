@@ -1,5 +1,5 @@
+<!-- [![MasterHead](./img/banner.jpg)](https://umerkhan19.netlify.app/) -->
 <h1 align="center">Hey...👋, I'm Umer Khan</h1>
-[![MasterHead](./img/banner.jpg)](https://umerkhan19.netlify.app/)
 <h3 align="center">A passionate "Software Developer" from India.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="img/pic.jpeg"> -->
 
